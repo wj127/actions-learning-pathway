@@ -12,4 +12,4 @@ jobs:
           node-version: '18.x'
       - run: | 
           npm install
-          npm build
+          npm run build
